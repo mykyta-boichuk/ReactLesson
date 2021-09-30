@@ -1,0 +1,13 @@
+
+
+.profile{
+    grid-area: g;
+    background-color: green;
+}
+
+.profile__img{
+    width: 100%;
+    height: 250px;
+}
+
+

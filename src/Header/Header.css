@@ -1,7 +1,15 @@
+
+
 .header{
+    grid-area: h;
     width: 1200px;
     height: 120px;
     display: flex;
    justify-content: space-between;
-    background-color: green;
+    background-color:red;
+}
+.header_menu_list{
+    display: flex;
+    list-style: none;
+
 }
