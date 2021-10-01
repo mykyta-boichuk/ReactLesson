@@ -3,4 +3,20 @@
 .navbar{
     grid-area: n;
     background-color: indigo;
+    padding: 10px 20px;
+}
+
+.navbar__navigation li{
+    padding: 5px 0;
+    
+}
+
+.navbar__navigation a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.navbar__navigation a.active{
+    color: gold;
 }

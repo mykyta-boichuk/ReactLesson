@@ -4,8 +4,8 @@ import './Footer.css';
 const Footer = () =>{
 
     return(
-        <div class ="footer">]
-
+        <div class ="footer">
+            
         </div>
     )
 }
