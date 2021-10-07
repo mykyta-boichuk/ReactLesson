@@ -1,0 +1,15 @@
+
+.navbar{
+    background-color: yellow;
+    grid-area: n;
+}
+.navbarListenItem{
+    list-style: none;
+}
+.navbarListenItem a{
+    color: white;
+    text-decoration: none;
+}
+.navbarListenItem .active{
+    color: red;
+}

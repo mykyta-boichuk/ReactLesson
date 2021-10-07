@@ -1,0 +1,10 @@
+.header{
+
+    background-color: green;
+    grid-area: h;
+}
+
+.headerLogo{
+    width: 200px;
+    height: 100px;
+}
